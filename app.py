@@ -3,7 +3,7 @@ from google import genai
 
 st.set_page_config(page_title="AI Chatbot", page_icon="🤖")
 st.title("✨AI Chatbot")
-st.write("Type a message below to generate responses dynamically via an API.")
+st.write("Type a message below to generate responses dynamically via an AI.")
 
 # 1. API Authentication Setup
 # For security, you would normally hide this, but we'll paste it directly for learning.
