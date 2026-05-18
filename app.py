@@ -2,7 +2,7 @@ import streamlit as st
 from google import genai
 
 st.set_page_config(page_title="AI Chatbot", page_icon="🤖")
-st.title("🤖 My First AI Chatbot")
+st.title("✨ My First AI Chatbot")
 st.write("Type a message below to generate responses dynamically via an API.")
 
 # 1. API Authentication Setup
