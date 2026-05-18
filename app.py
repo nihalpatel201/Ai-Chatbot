@@ -7,7 +7,7 @@ st.write("Type a message below to generate responses dynamically via an AI.")
 
 # 1. API Authentication Setup
 # For security, you would normally hide this, but we'll paste it directly for learning.
-API_KEY = "AIzaSyC7xOric6UAdvMNYCxUSW-p7HGIvrFbmWg" 
+API_KEY = "AIzaSyDuksHSZ6V1hNeu3iHGsuDL1_JLuq4aHDk" 
 
 try:
     client = genai.Client(api_key=API_KEY)
